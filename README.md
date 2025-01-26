@@ -7,8 +7,8 @@
 ## Team
 # AIxOncoCare Team
 
-| ![Team Picture 1](images/WhatsApp_Image_2025_01_25_at_23_59_04_58a5bd81.jpg) | ![Team Picture 2](images/WhatsApp_Image_2025_01_25_at_23_59_04_73c01b11.jpg) |
-|:--:|:--:|
+![Team Picture](Hackathon/WhatsApp%20Image%202025-01-25%20at%2023.59.04_58a5bd81.jpg)
+
 
 
 
