@@ -7,8 +7,10 @@
 ## Team
 # AIxOncoCare Team
 
-| ![Team Picture 1](https://i.imgur.com/x4oITT8.jpg) | ![Team Picture 2](https://i.imgur.com/Bm7tBCp.jpg) |
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.imgur.com/x4oITT8.jpg" width="45%" />
+  <img src="https://i.imgur.com/Bm7tBCp.jpg" width="45%" />
+</div>
 
 
 ## Project Components
