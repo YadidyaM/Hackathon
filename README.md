@@ -5,10 +5,11 @@
 **AIxOncoCare** is an AI-powered platform designed to revolutionize oncology by integrating **radiomics**, **genomics**, and **conversational AI**. The platform empowers clinicians and patients with personalized, data-driven insights for cancer care. This project leverages cutting-edge technologies to predict survival outcomes, optimize therapies, and enhance access to groundbreaking cancer research.
 
 ## Team
-<div style="display: flex; justify-content: space-between;">
-  <img src="images/WhatsApp_Image_2025_01_25_at_23_59_04_58a5bd81.jpg" width="45%" />
-  <img src="images/WhatsApp_Image_2025_01_25_at_23_59_04_73c01b11.jpg" width="45%" />
-</div>
+# AIxOncoCare Team
+
+| ![Team Picture 1](images/WhatsApp_Image_2025_01_25_at_23_59_04_58a5bd81.jpg) | ![Team Picture 2](images/WhatsApp_Image_2025_01_25_at_23_59_04_73c01b11.jpg) |
+|:--:|:--:|
+
 
 
 ## Project Components
