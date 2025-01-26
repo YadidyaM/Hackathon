@@ -7,7 +7,7 @@
 ## Team
 # AIxOncoCare Team
 
-![Team Picture](Hackathon/WhatsApp%20Image%202025-01-25%20at%2023.59.04_58a5bd81.jpg)
+![Team Picture]![Alt text for the image](Hackathon/WhatsApp%20Image%202025-01-25%20at%2023.59.04_58a5bd81.jpg)
 
 
 
